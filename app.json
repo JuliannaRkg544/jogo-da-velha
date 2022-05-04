@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "JogoDaVelha",
+    "slug": "JogoDaVelha",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
